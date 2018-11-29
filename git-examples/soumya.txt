@@ -1,5 +1,0 @@
-This is a text file.
-
-Another change in the file.
-
-This is the third change made.
