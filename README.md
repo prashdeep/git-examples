@@ -5,17 +5,17 @@
 
 <h2>Committer List</h2>
 
-aditya aditya@nineleaps.com 
-alok_dubey alok.dubey@nineleaps.com 
-Anil Kumar anilkumar@nineleaps.com 
-divyansh divyansh@nineleaps.com 
-prem premdeep@nineleaps.com 
-promod promod.kumar@gmail.com 
-Raghav_Rajput raghav2010 
-sajan02 40911445+sajan02@users.noreply.github.com 
-sajan sajan.kashi02@gmail.com 
-shikha shikharai@nineleaps.com 
-shivamP pandeyshivam21197@gmail.com 
-soumya soumya@nineleaps.com 
-Sriram P T sriram.p@nineleaps.com 
-Taiyab123 taiyab.ansari@nineleaps.com 
+<a>aditya aditya@nineleaps.com </a>
+<a>alok_dubey alok.dubey@nineleaps.com </a>
+<a>Anil Kumar anilkumar@nineleaps.com </a>
+<a>divyansh divyansh@nineleaps.com </a>
+<a>prem premdeep@nineleaps.com </a>
+<a>promod promod.kumar@gmail.com </a>
+<a>Raghav_Rajput raghav2010 </a>
+<a>sajan02 40911445+sajan02@users.noreply.github.com</a> 
+<a>sajan sajan.kashi02@gmail.com </a>
+<a>shikha shikharai@nineleaps.com </a>
+<a>shivamP pandeyshivam21197@gmail.com</a> 
+<a>soumya soumya@nineleaps.com </a>
+<a>Sriram P T sriram.p@nineleaps.com</a> 
+<a>Taiyab123 taiyab.ansari@nineleaps.com </a>
