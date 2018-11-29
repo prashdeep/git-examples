@@ -1,6 +1,6 @@
 # git-examples
 
-<h1>THIS IS A DEMO MODE</h1>
+<h1 style="color:red">THIS IS A DEMO MODE</h1>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQWOqXPll5TEuP5xM38m_H027UcD3Fp8VFmVcKusTYGP8Njqtyw">
 
 <h2>Committer List</h2>
