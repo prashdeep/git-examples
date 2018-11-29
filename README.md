@@ -11,7 +11,6 @@
 <p>prem premdeep@nineleaps.com </p>
 <p>promod promod.kumar@gmail.com </p>
 <p>Raghav_Rajput raghav2010 </p>
-<p>sajan02 40911445+sajan02@users.noreply.github.com</p> 
 <p>sajan sajan.kashi02@gmail.com </p>
 <p>shikha shikharai@nineleaps.com </p>
 <p>shivamP pandeyshivam21197@gmail.com</p> 
